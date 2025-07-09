@@ -29,28 +29,10 @@ This project presents a comprehensive Power BI dashboard analyzing Olympic Games
 - Highlights top individual performers in Olympic history.
 
 # Repository Structure
-
-Olympic-Games-Dashboard/
-├── Dashboard.pbix                        
-│   └── Power BI dashboard file
-│
-├── Olympic_Games_Dashboard_ReadMe.docx   
-│   └── Project documentation (this file)
-│
-├── Data/
-│   ├── athletes.csv <a href "https://github.com/Sowmiya-analytics/Power-bi-Dashboard/blob/main/athlete_compressed.zip"</a>                      
-│   ├── medals.csv                           
-│   └── sports.csv                           
-│       └── Datasets used in the dashboard
-│
-├── Images/
-│   └── dashboard_screenshot.png             
-│       └── Visual snapshot of the final dashboard
-│
-└── Scripts/
-    └── data_cleaning.sql                    
-        └── SQL script for data transformation and cleaning
-        
+   Data - https://github.com/Sowmiya-analytics/Power-bi-Dashboard/blob/main/athlete_compressed.zip
+   Dashboard.pbix -
+   Images -![Olympic dashboard](https://github.com/user-attachments/assets/382c4fef-3a20-4ff8-b7ab-e1f1c144e5f3)
+https://github.com/Sowmiya-analytics/Power-bi-Dashboard/blob/main/Olympic%20dashboard.png
 # Feedback and Collaboration
 We welcome collaboration and are excited to hear your thoughts on improving this project!
 
