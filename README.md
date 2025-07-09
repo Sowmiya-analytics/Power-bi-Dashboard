@@ -30,7 +30,7 @@ This project presents a comprehensive Power BI dashboard analyzing Olympic Games
 
 # Repository Structure
    Data - https://github.com/Sowmiya-analytics/Power-bi-Dashboard/blob/main/athlete_compressed.zip
-   Dashboard.pbix -
+   Dashboard.pbix -https://github.com/Sowmiya-analytics/Power-bi-Dashboard/blob/main/Olympic%20Game.pbix
    Images -![Olympic dashboard](https://github.com/user-attachments/assets/382c4fef-3a20-4ff8-b7ab-e1f1c144e5f3)
 https://github.com/Sowmiya-analytics/Power-bi-Dashboard/blob/main/Olympic%20dashboard.png
 # Feedback and Collaboration
